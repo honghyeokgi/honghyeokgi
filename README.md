@@ -1,9 +1,9 @@
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhonghyeokgi&count_bg=%233A6DE5&title_bg=%23555555&icon=&icon_color=%23E9DEDE&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-🙇‍ Thank you for visit my Git Profile 
-:clipboard: Introduction
-:mortar_board: major: Information & Communication Technology 
-:postbox: email: gurrl377@naver.com
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhonghyeokgi&count_bg=%233A6DE5&title_bg=%23555555&icon=&icon_color=%23E9DEDE&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br>
+🙇‍ Thank you for visit my Git Profile <br>
+:clipboard: Introduction<br>
+:mortar_board: major: Information & Communication Technology <br>
+:postbox: email: gurrl377@naver.com<br>
 💻 Computer Language : <img src="https://img.shields.io/badge/green?style=flat-square&logo=simpleicons에서_#339933&logoColor=white"/></a>&nbsp 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongHyeokGI)](https://github.com/anuraghazra/github-readme-stats)
@@ -11,14 +11,7 @@
 
 
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
-.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
-  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
-  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
+
 <table class="tg">
 <thead>
   <tr>

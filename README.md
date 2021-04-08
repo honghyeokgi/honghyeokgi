@@ -4,14 +4,18 @@
 //🙇‍ Thank you for visit my Git Profile <br>
 <br>
 <br>
-:clipboard: Introduction<br>
+:clipboard: Introduction<br><br>
 :mortar_board: major: Information & Communication Technology <br>
 :postbox: email: gurrl377@naver.com<br>
-💻 Computer Language <br> <img src="https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=Node.Js&logoColor=white"/></a> 
+💻 Computer Language <br><br> <img src="https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=Node.Js&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>  
 <img src="https://img.shields.io/badge/-Mysql-%234479A1?style=flat-square&logo=Mysql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Linux-%23FCC624?style=flat-square&logo=Linux&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/-React.js-%2361DAFB?style=flat-square&logo=React&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-Java-%23007396?style=flat-square&logo=java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-Keras-%23D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongHyeokGI)](https://github.com/anuraghazra/github-readme-stats)

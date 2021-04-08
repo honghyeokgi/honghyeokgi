@@ -1,13 +1,17 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhonghyeokgi&count_bg=%233A6DE5&title_bg=%23555555&icon=&icon_color=%23E9DEDE&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br>
 <br>
-🙇‍ Thank you for visit my Git Profile <br>
+//🙇‍ Thank you for visit my Git Profile <br>
 <br>
 <br>
 :clipboard: Introduction<br>
 :mortar_board: major: Information & Communication Technology <br>
 :postbox: email: gurrl377@naver.com<br>
-💻 Computer Language <br> <img src="https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=Node.Js&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+💻 Computer Language <br> <img src="https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=Node.Js&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>  
+<img src="https://img.shields.io/badge/-Mysql-%234479A1?style=flat-square&logo=Mysql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-Linux-%23FCC624?style=flat-square&logo=Linux&logoColor=white"/></a> 
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongHyeokGI)](https://github.com/anuraghazra/github-readme-stats)
@@ -42,7 +46,7 @@
     <td class="tg-0pky">Cloud Server</td>
     <td class="tg-0pky">2021-03 ~ 2021-12</td>
     <td class="tg-0pky">Development of Cloud Server Systems with MQTT Communication</td>
-    <td class="tg-0pky">Global Smart<br>Solution Intern</td>
+    <td class="tg-0pky">Global Smart Solution Intern</td>
   </tr>
 </tbody>
 </table>
@@ -67,7 +71,7 @@
    [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
    [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
    [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
-    <td class="tg-0pky">Global Smart<br>Solution Intern</td>
+    
   </tr>
 </tbody>
 </table>

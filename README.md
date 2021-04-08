@@ -1,6 +1,9 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhonghyeokgi&count_bg=%233A6DE5&title_bg=%23555555&icon=&icon_color=%23E9DEDE&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br>
+<br>
 🙇‍ Thank you for visit my Git Profile <br>
+<br>
+<br>
 :clipboard: Introduction<br>
 :mortar_board: major: Information & Communication Technology <br>
 :postbox: email: gurrl377@naver.com<br>

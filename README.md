@@ -7,7 +7,7 @@
 :clipboard: Introduction<br>
 :mortar_board: major: Information & Communication Technology <br>
 :postbox: email: gurrl377@naver.com<br>
-💻 Computer Language : <img src="https://img.shields.io/badge/green?style=flat-square&logo=simpleicons에서_#339933&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+💻 Computer Language : <imgsrc="https://img.shields.io/badge/nodejs-#339933?style=flat-square&logo=nodejs&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongHyeokGI)](https://github.com/anuraghazra/github-readme-stats)
 

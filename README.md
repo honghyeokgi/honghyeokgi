@@ -7,6 +7,8 @@
 :clipboard: Introduction<br><br>
 :mortar_board: major: Information & Communication Technology <br>
 :postbox: email: gurrl377@naver.com<br>
+:trophy: awards : 고양시 도시재생 쇠퇴지역 적정기술 경진대회(창업동아리-교외) 장려상, 2020-2학기 CCIT 캡스톤 경진대회(캡스톤디자인-교내)우수상 <br>
+:memo: activities: 무선 컨트롤러와 쌍토큰 보안인증을 통한 모델 설계 (산학연 콜라보 R&D) 연구원 참여, 디지털트윈 + 스마트팜 연구원 참여(smtech-중소기업개발지원사업)<br>
 💻 Computer Language <br><br> <img src="https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=Node.Js&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>  

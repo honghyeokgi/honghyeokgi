@@ -1,12 +1,24 @@
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhonghyeokgi&count_bg=%233A6DE5&title_bg=%23555555&icon=&icon_color=%23E9DEDE&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+🙇‍ Thank you for visit my Git Profile 
+:clipboard: Introduction
+:mortar_board: major: Information & Communication Technology 
+:postbox: email: gurrl377@naver.com
+💻 Computer Language : <img src="https://img.shields.io/badge/green?style=flat-square&logo=simpleicons에서_#339933&logoColor=white"/></a>&nbsp 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongHyeokGI)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 
-
-
-🙇‍ Thank you for visit my Git Profile
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
+.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
 <table class="tg">
 <thead>
   <tr>
@@ -33,6 +45,31 @@
     <td class="tg-0pky">Cloud Server</td>
     <td class="tg-0pky">2021-03 ~ 2021-12</td>
     <td class="tg-0pky">Development of Cloud Server Systems with MQTT Communication</td>
+    <td class="tg-0pky">Global Smart<br>Solution Intern</td>
+  </tr>
+</tbody>
+</table>
+
+   [dill]: <https://github.com/joemccann/dillinger>
+   [git-repo-url]: <https://github.com/joemccann/dillinger.git>
+   [john gruber]: <http://daringfireball.net>
+   [df1]: <http://daringfireball.net/projects/markdown/>
+   [markdown-it]: <https://github.com/markdown-it/markdown-it>
+   [Ace Editor]: <http://ace.ajax.org>
+   [node.js]: <http://nodejs.org>
+   [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
+   [jQuery]: <http://jquery.com>
+   [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
+   [express]: <http://expressjs.com>
+   [AngularJS]: <http://angularjs.org>
+   [Gulp]: <http://gulpjs.com>
+
+   [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
+   [PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
+   [PlGd]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
+   [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
+   [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
+   [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
     <td class="tg-0pky">Global Smart<br>Solution Intern</td>
   </tr>
 </tbody>
